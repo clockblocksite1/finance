@@ -1,0 +1,834 @@
+.row{
+    width: 1920px;
+    height: 3107px;
+    background-color: #10041A;
+}
+.banner{
+    position: absolute;
+    left: 0;
+   top: 0;
+   margin-left: 316px;
+   margin-top: 1184px;
+   gap: 24px;
+   display: flex;
+}
+.gap{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 810px;
+    margin-top: 1328px;
+}
+.gap2{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 840px;
+    margin-top: 1328px;
+}
+.gap3{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 870px;
+    margin-top: 1328px;
+}
+.gap4{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 1328px;
+}
+.gap5{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 930px;
+    margin-top: 1328px;
+}
+.gap6{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 960px;
+    margin-top: 1328px;
+}
+.gap7{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 990px;
+    margin-top: 1328px;
+}
+.gap8{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 1020px;
+    margin-top: 1328px;
+}
+.gap9{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: 1328px;
+}
+.gap10{
+    width: 22px;
+    height: 2px;
+    background-color: #37363E;
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 1080px;
+    margin-top: 1328px;
+}
+.icon1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1452px;
+    margin-left: 458px;
+}
+.vector1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1463px;
+    margin-left: 495px;
+}
+.real{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 22px;
+    left: 0;
+    top: 0;
+    margin-left: 457px;
+    margin-top: 1504px;
+}
+.display{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 457px;
+    margin-top: 1545px;
+}
+.various{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 457px;
+    margin-top: 1575px; 
+}
+.user{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 457px;
+    margin-top: 1605px; 
+}
+.dif{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 457px;
+    margin-top: 1635px;  
+}
+.icon2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1446px;
+    margin-left: 822px;
+}
+.vector2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1460px;
+    margin-left: 866px;
+}
+.easy{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 22px;
+    left: 0;
+    top: 0;
+    margin-left: 822px;
+    margin-top: 1502px;
+}
+.we{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 822px;
+    margin-top: 1544px;
+}
+.app{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 822px;
+    margin-top: 1574px; 
+}
+.tran{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 822px;
+    margin-top: 1604px; 
+}
+.icon3{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1450px;
+    margin-left: 1190px;
+}
+.vector4{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1463px;
+    margin-left: 1229px;
+}
+.portfolio{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 22px;
+    left: 0;
+    top: 0;
+    margin-left: 1190px;
+    margin-top: 1504px;
+    white-space: nowrap;
+}
+.allow{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 1190px;
+    margin-top: 1545px;
+    white-space: nowrap;
+}
+.the{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 1190px;
+    margin-top: 1575px;
+    white-space: nowrap;
+}
+.the2{
+    color: #CBBACE;
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    top: 0;
+    margin-left: 1190px;
+    margin-top: 1605px;
+    white-space: nowrap;
+}
+.Integrations{
+    color: #C689D0;
+    width: 162px;
+    height: 36px;
+    border: solid 1px #C689D0;
+    background-color: rgba(0, 0, 0, 0); 
+    font-size: 16px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1757px;
+    margin-left: 878px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.focus{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 50px;
+    color: #C7BECA;
+    margin-top: 1804px;
+    margin-left: 676px;
+    font-weight: 500;
+}
+.well{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 50px;
+    color: #C7BECA;
+    margin-top: 1864px;
+    margin-left: 746px;
+    font-weight: 500;
+}
+.stay{
+    color: #827484;
+    font-size: 17px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 624px;
+    margin-top: 1950px;
+    white-space: nowrap;
+}
+.ex2{
+    color: #827484;
+    font-size: 17px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 694px;
+    margin-top: 1985px;
+    white-space: nowrap;
+}
+.setka{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 2041px;
+    margin-left: 520px;
+    z-index: 1;
+}
+.setka2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 2160px;
+    margin-left: 338px;
+    z-index: 2;
+}
+.setka3{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 2175px;
+    margin-left: 1208px;
+    z-index: 2;
+}
+.wide{
+    color: #B1A8B3;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 50px;
+    margin-left: 704px;
+    margin-top: 2703px;
+    font-weight: 500;
+}
+.wide2{
+    color: #ADA4B0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 17px;
+    margin-left: 674px;
+    margin-top: 2792px;
+}
+.table{
+   left: 0;
+   top: 0;
+   position: absolute;
+    height: 547px;
+    margin-top: 2857px;
+    margin-left: 377px;
+}
+.name, .title, .price, .change {
+    font-size: 15px;
+}
+
+.name {
+    color: #FFFFFF;
+    padding-right: 27px;
+}
+
+.title {
+    color: #757880;
+    margin-right: -15px; 
+}
+
+.price {
+    color: #FFFFFF;
+    padding-left: 100px; 
+}
+
+.change {
+    font-size: 15px;
+    padding-left: 140px;
+    
+}
+.graph{
+    padding-left: 130px;
+}
+.trade{
+    width:94px ;
+    height: 39px;
+    border-radius: 8px;
+    border: solid 1px #C689D0;
+    font-size: 15px;
+    color: #969696;
+    background-color: rgba(0, 0, 0, 0); 
+    cursor: pointer;
+}
+.Trade{
+    padding-left: 150px;
+}
+.rom{
+    font-size: 43px;
+    color: #B5ACB8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 3500px;
+    margin-left: 729px;
+}
+.jo{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 16px;
+    color: #A8A0AB;
+    margin-top: 3558px;
+    margin-left: 776px;
+}
+.john{
+    background-color: #180621;
+    width: 390px;
+    height: 274px;
+    border-radius: 8px;
+    border: solid 1px #3E2E41;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 369px;
+    margin-top: 3658px;
+    z-index: 1;
+}
+.foto{
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-top: 3623px;
+    margin-left: 398px;
+    z-index: 2;
+}
+.John{
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-top: 46px;
+    margin-left: -280px;
+}
+.Enthusiast{
+    color: #808889;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 29px;
+    position: absolute;
+}
+.for{
+    font-size: 16px;
+    color: #808889;
+    position: absolute;
+    margin-left: 29px;
+    margin-top: 39px;
+}
+.for2{
+    font-size: 16px;
+    color: #808889;
+    position: absolute;
+    margin-left: 29px;
+    margin-top: 64px;
+}
+.for3{
+    font-size: 16px;
+    color: #808889;
+    position: absolute;
+    margin-left: 29px;
+    margin-top: 89px;
+}
+.for4{
+    font-size: 16px;
+    color: #808889;
+    position: absolute;
+    margin-left: 29px;
+    margin-top: 114px;
+}
+.for5{
+    font-size: 16px;
+    color: #808889;
+    position: absolute;
+    margin-left: 29px;
+    margin-top: 139px;
+}
+.for6{
+    font-size: 16px;
+    color: #808889;
+    position: absolute;
+    margin-left: 29px;
+    margin-top: 164px;
+}
+.john2{
+    background-color: #180621;
+    width: 390px;
+    height: 274px;
+    border-radius: 8px;
+    border: solid 1px #3E2E41;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 782px;
+    margin-top: 3658px;
+    z-index: 1;
+}
+.foto2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-top: 3623px;
+    margin-left: 811px;
+    z-index: 2;
+}
+.foto3{
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-top: 3623px;
+    margin-left: 1224px;
+    z-index: 2;
+}
+.john3{
+    background-color: #180621;
+    width: 390px;
+    height: 274px;
+    border-radius: 8px;
+    border: solid 1px #3E2E41;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1195px;
+    margin-top: 3658px;
+    z-index: 1;
+}
+.Exchange1{
+    width: 1920px;
+    height: 548px;
+    background-color: #230C32;
+    position:absolute ;
+    top: 0;
+    left: 0;
+    margin-top: 4184px;
+    margin-left: -1px;
+}
+.exc1{
+    font-size: 26px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 39px;
+}
+.in{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 130px;
+    margin-left: 339px;
+}
+.in2{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 150px;
+    margin-left: 339px;
+}
+.in3{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 170px;
+    margin-left: 339px;
+}
+.in4{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 190px;
+    margin-left: 339px;
+}
+.in5{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 210px;
+    margin-left: 339px;
+}
+.pod{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 251px;
+    margin-left: 340px;
+}
+b{
+    color: #6544C6;
+}
+.pod2{
+    font-size: 12px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 271px;
+    margin-left: 340px;
+}
+.sub{
+    font-size: 14px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 341px;
+    margin-left: 339px;
+}
+.email{
+    width: 139px;
+    height: 32px;
+    background-color: #100319;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 373px;
+    margin-left: 339px;
+    padding-left: 12px;
+    font-size: 12px;
+    color: #757575;
+}
+.Subscribe{
+    width:98px ;
+    font-size: 14px;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 374px;
+    margin-left: 500px;
+    border-radius: 5px;
+    background-color: #453152;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+.tr{
+    width: 1241px;
+    height: 1px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 431px;
+   background-color: #C4C4C4;
+    margin-left: 339px;
+}
+.acc{
+    color: #E8E8E8;
+    font-size: 9px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 462px;
+    margin-left: 365px;
+}
+.acc2{
+    color: #E8E8E8;
+    font-size: 9px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 478px;
+    margin-left: 340px;
+}
+.acc3{
+    color: #E8E8E8;
+    font-size: 9px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 494px;
+    margin-left: 900px;
+}
+.rod{
+    font-size: 9px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 514px;
+    margin-left: 900px;
+}
+.Products{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 58px;
+    margin-left: 901px;
+    font-weight: 500;
+}
+.eq {
+    font-size: 14px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 98px;
+    margin-left: 901px;
+    gap: 9px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+.Services{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 58px;
+    margin-left: 1044px;
+    font-weight: 500;
+}
+.eq2 {
+    font-size: 14px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 98px;
+    margin-left: 1044px;
+    gap: 9px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+.Information{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 58px;
+    margin-left: 1206px;
+    font-weight: 500;
+}
+.eq3 {
+    font-size: 14px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 98px;
+    margin-left: 1206px;
+    gap: 9px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+.Legal{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 58px;
+    margin-left: 1351px;
+    font-weight: 500;
+}
+.eq4 {
+    font-size: 14px;
+    color: #E8E8E8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 98px;
+    margin-left: 1351px;
+    gap: 9px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
